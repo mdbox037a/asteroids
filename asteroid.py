@@ -1,6 +1,5 @@
 from typing import Self
 from circleshape import CircleShape
-from constants import PLAYER_SPEED
 import pygame
 
 
